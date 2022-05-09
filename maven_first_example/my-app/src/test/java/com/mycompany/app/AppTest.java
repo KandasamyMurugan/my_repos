@@ -18,7 +18,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
-    
+    }
 
     /****
      * @return the suite of tests being tested
@@ -37,7 +37,7 @@ public class AppTest
     }
     public void testApp2()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
     public void testApp3()
     {
